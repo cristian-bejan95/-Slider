@@ -1,4 +1,4 @@
 # -Slider
 Slider SwiperJS
 
-bejancmaster.github.io/-Slider/
+https://bejancmaster.github.io/-Slider/
