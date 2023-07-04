@@ -1,4 +1,4 @@
 # -Slider
-Slider SwiperJS
+Slider SwiperJ
 
-https://bejancmaster.github.io/-Slider/
+https://cristianbejanmaster.github.io/-Slider/
